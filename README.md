@@ -2,6 +2,8 @@
 
 **Turn customer conversations into actionable Agile User Stories.**
 
+Product Demo: https://www.linkedin.com/posts/kushika-sivaprakasam_aiagents-langchain-agenticai-activity-7419446781098225666-qH7j?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_rLo8BapJZ86-Yyha3FXCv4iUqyjG8YXc
+
 The **User Story Agent** is an AI-powered tool designed for Product Managers and Agile teams. It automatically analyzes customer meeting transcripts, interviews, and feedback to generate high-quality user stories with acceptance criteria. It also features a **RAG (Retrieval-Augmented Generation)** system to chat with your data and seamless integration with **Trello**.
 
 ---
